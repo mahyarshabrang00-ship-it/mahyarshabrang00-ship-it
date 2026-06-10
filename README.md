@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahyar Shabrang</h1>
 <h3 align="center">A passionate Computer Programming from Iran</h3>
 
-<img align="right" alt="mahyar"  src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+<img align="right" alt="mahyar" width="400" src="https://camo.githubusercontent.com/603b097271fe31d7d8fc753f7bd7b70d34b3138d452247faaa1b9f510b0a24dc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3036663231613136313932313931392e363363643738383764306137302e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahyarshabrang00-ship-it&label=Profile%20views&color=0e75b6&style=flat" alt="mahyarshabrang00-ship-it" /> </p>
 
 - 🌱 I’m currently learning **My knowledge of the network**
